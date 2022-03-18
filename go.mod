@@ -1,4 +1,4 @@
-module mycmp
+module github.com/mimimimizuki/mycmp
 
 go 1.18
 
